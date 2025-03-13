@@ -33,10 +33,5 @@ This is my **personal portfolio website** showcasing my **projects, skills, and 
 ✔️ **Fully Responsive Design** (mobile & desktop)  
 ✔️ **Contact Form** with email functionality  
 
----
 
-## 🔗 **Live Demo**
-🔗 **[View Portfolio](https://your-username.github.io/portfolio/)**
-
----
 
